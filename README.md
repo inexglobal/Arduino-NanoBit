@@ -1,1 +1,1 @@
-# Aduino-NanoBit
+# Arduino-NanoBit
